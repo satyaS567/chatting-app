@@ -1,0 +1,26 @@
+.background{
+    background-color: #6def3a;
+}
+.items{
+    width: 100vw;
+}
+.first{
+    width: 100vw;
+    height: 73vh;
+    overflow: auto;
+}
+.left{
+    float: left;
+    width: 60%;
+    margin-top: 5px;
+}
+.right{
+    float: right;
+    width: 60%;
+    margin-top: 5px;
+}
+.center{
+    width: 60vw;
+    margin: auto;
+    margin-top: 5px;
+}
